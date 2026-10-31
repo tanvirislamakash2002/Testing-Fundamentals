@@ -1,0 +1,1 @@
+## This repository contain some basic testing fundamentals like vitest
